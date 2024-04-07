@@ -1,0 +1,15 @@
+{
+  "name": "mini-projeto-m1s10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "produtos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rebeca Verissimo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "yup": "^1.4.0"
+  }
+}

@@ -1,0 +1,62 @@
+[
+{
+    "nome": "BOOSTER MASK",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/0e318def01b995b0a96aac2a46ca578d.png?1712414297",
+    "descricao": "Formulação desenvolvida com ativos ricos em vitaminas e compostos nutritivos para restaurar cabelos enfraquecidos e opacos. Devolve brilho radiante aos cabelos e auxilia na definição e retenção dos cachos.",
+    "preco": 34.90
+},
+{
+    "nome": "PODER DO BLACK GOLD GELATINE",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/862592715f29ac10b9cc1919299fc09c.png?1712414744",
+    "descricao": "Gelatina modeladora com ativos naturais hidratantes e nutritivos para modelar crespos e crespíssimos, auxiliando em penteados com tranças.",
+    "preco": 32.90
+},
+{
+    "nome": "LEAVE IN MULTIFUNCIONAL",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/862592715f29ac10b9cc1919299fc09c.png?1712414744",
+    "descricao": "O Leave-In é uma defesa diária com proteção térmica, UV e anti-ressecamento para cabelos mais hidratados por mais tempo.",
+    "preco": 26.90
+},
+{
+    "nome": "Condicionador Anticaspa Detox",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/acca5d52bdbb05bfb40f3d5c3a4ee691.png?1712415149",
+    "descricao": "O condicionador ANTICASPA DETOX STRONG HELP possui ativos condicionantes selecionados que agem profundamente no tratamento dos fios, auxiliando na manutenção anticaspa dos cachos. Os cabelos ficam mais saudáveis, macios, brilhosos, com muita definição e balanço.",
+    "preco": 24.9
+},
+{
+    "nome": "COCO E CACAU CREAM",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/01053b07b95b519b432322849b95496e.png?1712415574",
+    "descricao": "Sua formulação rica em ativos naturais forma uma camada emoliente antirressecamento que evita a perda de nutrientes importantes nos fios, mantendo os cabelos cacheados e crespos nutridos por mais tempo, com menos frizz e redução de pontas duplas.",
+    "preco": 32.9
+},
+{
+    "nome": "Avocado Wash Soul Power",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/83a0d17bcb5f0791a64b1a3b4d9578c2.png?1712415979",
+    "descricao": "O Shampoo ABACATE PROTEINADO AVOCADO WASH contém ativos fundamentais para reconstrução dos fios. Associa a alta penetração dos aminoácidos e proteínas, com as vitaminas e o poder nutritivo do abacate para doar corpo e massa capilar aos cabelos com curvaturas.",
+    "preco": 23.8
+},
+{
+    "nome": "MAGIC WASH",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/750767cfeb9a53390091f12f692f27d0.png?1712416102",
+    "descricao": "Composto por ativos naturais selecionados para o combate ao ressacamento capilar. A formulação hidrata os fios enquanto limpa delicadamente toda a extensão dos cabelos.",
+    "preco": 21.9
+},
+{
+    "nome": "Shampoo Kids Soft Wash",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/3c4d7605e3f36ca00ad6b52e7db3c4be.png?1712416237",
+    "descricao": "Shampoo perfumado sem sulfato. O SHAMPOO SOFT WASH possui uma formulação enriquecida com ativos naturais com efeito emoliente, nutritivo e calmante para lavar suavemente os cabelos evitando a formação de nós e auxiliar na formação natural dos cachos infantis. Testado oftalmo e dermatologicamente.",
+    "preco": 21.9
+},
+{
+    "nome": "CURLY ON CREAM - POTÃO",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/a4ef3baef0edff37ae3f1bb71de44c43.png?1712416240",
+    "descricao": "Sua formulação combina o Colágeno Vegetal com a Manteiga de Karité e Óleo de Abacate, o que devolve maleabilidade e definição aos cachos com volume e sem frizz. Possui Protetor Térmico para proteger os fios do uso de secadores, chapinhas e modeladores.",
+    "preco": 43.9
+},
+{
+    "nome": "MONSTER CURLY",
+    "img": "https://soulpowerbrasil.com.br/uploads_md/f389c3076b9e124339d4441480eab667.png?1712416242",
+    "descricao": "Creme para pentear que desembaraça os cabelos, dando volume e definição no penteado desejado.",
+    "preco": 25.9
+}
+]
