@@ -1,0 +1,134 @@
+{
+	"info": {
+		"_postman_id": "509194e2-5178-4c6d-87ef-02ee942c409b",
+		"name": "Mini Proyecto-M1S10",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33911995"
+	},
+	"item": [
+		{
+			"name": "Adicionar Produto",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"BOOSTER MASK\",\r\n    \"img\": \"https://soulpowerbrasil.com.br/uploads_md/0e318def01b995b0a96aac2a46ca578d.png?1712414297\",\r\n    \"descricao\": \"Formulação desenvolvida com ativos ricos em vitaminas e compostos nutritivos para restaurar cabelos enfraquecidos e opacos. Devolve brilho radiante aos cabelos e auxilia na definição e retenção dos cachos.\",\r\n    \"preco\": 34.90\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/produtos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"produtos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Adicionar Lista de Produto",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/produtos-lista",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"produtos-lista"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Listar Produtos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/produtos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"produtos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Atualizar Produto",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"SUPER CREME MULTIFUNCIONAL\",\r\n    \"img\": \"https://soulpowerbrasil.com.br/uploads_md/862592715f29ac10b9cc1919299fc09c.png?1712414744\",\r\n    \"descricao\": \"O Leave-In é uma defesa diária com proteção térmica, UV e anti-ressecamento para cabelos mais hidratados por mais tempo.\",\r\n    \"preco\": 26.90\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/produtos/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"produtos",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Deletar Produto",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/produtos/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"produtos",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
